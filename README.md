@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel a passionate software engineer & researcher with 8+ years of experience, currently focused on blockchain systems.
+I'm Daniel, passionate software engineer & researcher with 8+ years of experience, currently focused on blockchain systems.
 
 Current Projects
 - [Nft Launchpad Procotol](https://github.com/moonvera-solution/nft-dex) - [MvxPad Beta](https://mvx-beta-version.netlify.app/)
