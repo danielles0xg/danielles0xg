@@ -15,7 +15,7 @@ Past Projects
 - [SDK for resale protocol integration](https://www.npmjs.com/package/@brightunion/sdk)
 
 Publications
-  - [Tech blog and portfolio](https://danielles0xg.xyz/)
+  - [Tech blog and portfolio](https://danielles0xg.cc/)
 
 
 <!--
