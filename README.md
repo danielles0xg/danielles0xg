@@ -3,6 +3,7 @@
 I'm Daniel, passionate software engineer & researcher with 8+ years of experience, currently focused on blockchain systems.
 
 Current Projects
+- Solana trading bot - [Dribs.io](https://dribs.io/)
 - [Nft Launchpad Procotol](https://github.com/moonvera-solution/nft-dex) - [MvxPad Beta](https://mvx-beta-version.netlify.app/)
 - Code4rena audit contests [danielles0xg profile](https://code4rena.com/@danielles0xG)
   
