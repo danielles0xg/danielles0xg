@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-I'm Daniel, passionate software engineer & researcher with 8+ years of experience, currently focused on blockchain systems.
+I'm Daniel, an independent contractor focused on blockchain development and security.
 
-Current Projects
+Projects
 - Solana trading bot - [Dribs.io](https://dribs.io/)
 - [Nft Launchpad Procotol](https://github.com/moonvera-solution/nft-dex) - [MvxPad Beta](https://mvx-beta-version.netlify.app/)
 - Code4rena audit contests [danielles0xg profile](https://code4rena.com/@danielles0xG)
-  
-Past Projects 
-
 - [Layer Zero Crosschain DeFi strategies](https://github.com/danielles0xG/defi-build-blocks)
 - [Bright Risk Index](https://app.brightunion.io/provide-cover/) - Yield bearing [ethereum token](https://etherscan.io/address/0xa4b032895BcB6B11ec7d21380f557919D448FD04)
 - [Risk coverage resale protocol](https://github.com/danielles0xG/distributors-docs)
