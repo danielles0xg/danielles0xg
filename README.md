@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel, an independent contractor focused on blockchain development and security.
+I'm Daniel, independent contractor focused on blockchain development and security.
 
 Projects
 - Solana trading bot - [Dribs.io](https://dribs.io/)
