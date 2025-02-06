@@ -3,7 +3,6 @@
 I'm Daniel, independent contractor focused on blockchain development and security.
 
 Projects
-- Solana trading bot - [Dribs.io](https://dribs.io/)
 - [Nft Launchpad Procotol](https://github.com/moonvera-solution/nft-dex) - [MvxPad Beta](https://mvx-beta-version.netlify.app/)
 - Code4rena audit contests [danielles0xg profile](https://code4rena.com/@danielles0xG)
 - [Layer Zero Crosschain DeFi strategies](https://github.com/danielles0xG/defi-build-blocks)
