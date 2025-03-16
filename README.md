@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Daniel, an independent contractor focused on blockchain development and security.
+I'm Daniel, independent contractor focused on blockchain development and security.
 
-Projects
+Past Projects
 - [Prism Protocol](https://www.prismprotocol.xyz/)
 - [Layer Zero Crosschain DeFi strategies](https://github.com/danielles0xG/defi-build-blocks)
 - [Bright Risk Index](https://app.brightunion.io/provide-cover/) - Yield bearing [ethereum token](https://etherscan.io/address/0xa4b032895BcB6B11ec7d21380f557919D448FD04)
