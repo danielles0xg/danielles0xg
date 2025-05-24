@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel, independent contractor focused on blockchain development and security.
+I'm Daniel, independent contractor focused on blockchain development and security for evm and solana applications.
 
 Past Projects
 - [Prism Protocol](https://www.prismprotocol.xyz/)
