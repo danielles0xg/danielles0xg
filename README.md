@@ -12,7 +12,7 @@ Past Projects
 - Code4rena audit contests [danielles0xg profile](https://code4rena.com/@danielles0xG)
 
 Publications
-  - [Basic Lending Dapp](https://ackee-sol-lending-demo-6x9v.vercel.app/) ackee SOL certification
+  - [Fullstack Lending Dapp](https://ackee-sol-lending-demo-6x9v.vercel.app/) ackee SOL certification
   - [Tech blog and portfolio](https://danielles0xg.cc/)
 
 
