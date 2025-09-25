@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel, independent researcher/contractor focused on blockchain development and security for evm and solana networks.
+I'm Daniel, independent researcher/contractor focused on blockchain architecture and development for evm and solana networks.
 
 Past Projects
 - [Solana trading bot](https://github.com/moonvera-solution/mvx-sol-bot) - [TG](https://t.me/DRIBs_bot) - Fee Wallet Activity [1](https://solscan.io/account/dRbyndUyDADvvN5RbAnHrVjypeNHB5xrejLmAYkj3SF#defiactivities) [2](https://solscan.io/account/MvXfSe3TeEwsEi731Udae7ecReLQPgrNuKWZzX6RB41#defiactivities)
