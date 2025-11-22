@@ -12,8 +12,8 @@ Past Projects
 - Code4rena audit contests [danielles0xg profile](https://code4rena.com/@danielles0xG)
 
 Publications
-  - [Fullstack Lending Dapp](https://ackee-sol-lending-demo-6x9v.vercel.app/) ackee solana certification
-  - [Tech blog and portfolio](https://danielles0xg.cc/)
+  - [Ackee](Ackee) Solana Development [Certification](https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m) [Fullstack Lending Dapp](https://ackee-sol-lending-demo-6x9v.vercel.app/)
+  - [Tech blog](https://danielles0xg.cc/)
 
 
 <!--
