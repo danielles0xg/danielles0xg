@@ -12,7 +12,8 @@ Past Projects
 - Code4rena audit contests [danielles0xg profile](https://code4rena.com/@danielles0xG)
 
 Publications
-  - [Ackee](Ackee) Solana Development [Certification](https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m) [Lending protocol Capstone Project](https://ackee-sol-lending-demo-6x9v.vercel.app/)
+  - [Turbin3 Institute](https://www.turbin3.org/the-institute) [Solana Projects](https://gist.github.com/danielles0xg/f2e7d9ee167ac2849ca95a2d000701c7)
+  - [Ackee](https://ackee.xyz/) Solana Development [Certification](https://gateway.pinata.cloud/ipfs/QmXa5x12TC4ki9g4UvsdB686c3dVg1oUS6cmikEtP5bf1m) [Lending protocol Capstone Project](https://ackee-sol-lending-demo-6x9v.vercel.app/)
   - [Tech blog](https://danielles0xg.cc/)
 
 
