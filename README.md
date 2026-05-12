@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm Daniel, independent researcher/contractor focused on blockchain architecture and development for evm and solana networks.
+I'm Daniel, independent researcher/contractor focused on blockchain architecture and development for EVM and Solana systems.
 
 Open source past Projects
-- [Solana trading bot](https://github.com/moonvera-solution/mvx-sol-bot) - [TG](https://t.me/DRIBs_bot) - Fee Wallet Activity [1](https://solscan.io/account/dRbyndUyDADvvN5RbAnHrVjypeNHB5xrejLmAYkj3SF#defiactivities) [2](https://solscan.io/account/MvXfSe3TeEwsEi731Udae7ecReLQPgrNuKWZzX6RB41#defiactivities)
+- Solana [Turbin3](https://turbin3.org/institute) graduate project - Order book, zero-copy market using MagicBlock ephemeral rollup for order matching.
+- [Solana trading](https://github.com/moonvera-solution/mvx-sol-bot) - [TG](https://t.me/DRIBs_bot) - Fee Wallet Activity [1](https://solscan.io/account/dRbyndUyDADvvN5RbAnHrVjypeNHB5xrejLmAYkj3SF#defiactivities) [2](https://solscan.io/account/MvXfSe3TeEwsEi731Udae7ecReLQPgrNuKWZzX6RB41#defiactivities)
 - [Prism Protocol](https://x.com/PrismFHE) - [NodeJs SDK](https://www.npmjs.com/package/prism-sdk?__cf_chl_rt_tk=dAKwG_ZE8hKPDdKcXARiaiSJbLxpDBODJ52mi4WGajI-1746551924-1.0.1.1-p7K802756gzl9gpBG_fv1gRazIza7flrbSYHGIDFtbo) Web3 targeted advertising - Berachain
 - [Layer Zero Crosschain DeFi strategies](https://github.com/danielles0xG/defi-build-blocks) - [3Commas](https://3commas.io/) 2022 decentralized initiative [Decommas](https://x.com/decommas?lang=en)
 - [Bright Risk Index](https://app.brightunion.io/provide-cover/) - Yield bearing [ethereum token](https://etherscan.io/address/0xa4b032895BcB6B11ec7d21380f557919D448FD04)
