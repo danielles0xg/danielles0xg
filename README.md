@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Daniel, independent researcher/contractor focused on blockchain architecture and development for EVM and Solana systems.
 
 Open source past Projects
