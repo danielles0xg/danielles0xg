@@ -1,4 +1,6 @@
-I'm Daniel, independent researcher/contractor focused on blockchain architecture and development for EVM and Solana systems.
+ I'm Daniel, an independent researcher/contractor focused on distributed systems design, cloud architecture, and blockchain financial applications
+  for EVM and Solana systems.
+
 
 Open source past Projects
 - [Turbin3](https://turbin3.org/institute) Accelerate project - [Pinocchio Order book](https://github.com/Turbin3/accel-Giuseppe), zero-copy order-book using MagicBlock ephemeral rollup for order matching.
