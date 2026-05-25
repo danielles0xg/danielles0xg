@@ -1,4 +1,4 @@
- I'm Daniel, an independent researcher/contractor focused on distributed systems design, cloud architecture, and blockchain financial applications
+ I'm Daniel, an independent researcher and contractor focused on distributed systems design, cloud architecture, and blockchain financial applications
   for EVM and Solana systems.
 
 
