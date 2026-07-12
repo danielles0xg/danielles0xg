@@ -4,7 +4,7 @@ I'm Daniel, an independent researcher and contractor focused on distributed syst
 
 **Smart contract engineering:** Solidity · Rust · Anchor · NodeJs — DeFi protocols, high-performance trading infrastructure, account abstraction, security audits.
 
-📍 Montreal, Canada &nbsp;·&nbsp; 📫 daniel.profile.eng@gmail.com &nbsp;·&nbsp; 📄 [Resume / CV](https://danielles0xg.cc/resume) &nbsp;·&nbsp; 🌐 [danielles0xg.cc](https://danielles0xg.cc)
+📍 Montreal, Canada &nbsp;·&nbsp; 📫 daniel.profile.eng@gmail.com &nbsp;·&nbsp; &nbsp;·&nbsp; 🌐 [danielles0xg.cc](https://danielles0xg.cc)
 
 ## Open source & past projects
 
