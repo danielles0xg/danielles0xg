@@ -2,7 +2,7 @@
 
 I'm Daniel, an independent researcher and contractor focused on ML engineering simulations, distributed systems design, cloud architecture, and blockchain financial applications for EVM and Solana systems.
 
-**Smart contract engineering:** Solidity · Rust · Anchor · NodeJs — DeFi protocols, high-performance trading infrastructure, account abstraction, security audits.
+**Smart contract engineering:** Solidity · Rust · Anchor · NodeJs — DeFi protocols, high-performance trading infrastructure, account abstraction, security audits, PhD student in Advance Aerial Mobility AAM Networks.
 
 📍 Montreal, Canada &nbsp;·&nbsp; 📫 daniel.profile.eng@gmail.com &nbsp;·&nbsp; &nbsp;·&nbsp; 🌐 [danielles0xg.cc](https://danielles0xg.cc)
 
