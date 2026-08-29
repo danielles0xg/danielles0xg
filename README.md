@@ -1,6 +1,6 @@
 # danielGg
 
-I'm Daniel, an independent researcher and contractor focused on ML engineering simulations, distributed systems design, cloud architecture, and blockchain financial applications for EVM and Solana systems.
+I'm Daniel, an independent researcher and contractor focused on ML engineering simulations, distributed systems and blockchain financial applications.
 
 **Smart contract engineering:** Solidity · Rust · Anchor · NodeJs — DeFi protocols, high-performance trading infrastructure, account abstraction, security audits, PhD student in Advance Aerial Mobility AAM Networks.
 
