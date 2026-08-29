@@ -1,4 +1,4 @@
-# DanielGg
+# danielGg
 
 I'm Daniel, an independent researcher and contractor focused on ML engineering simulations, distributed systems design, cloud architecture, and blockchain financial applications for EVM and Solana systems.
 
